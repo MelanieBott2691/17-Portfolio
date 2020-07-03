@@ -1,0 +1,29 @@
+{
+  "name": "17-portfolio",
+  "version": "1.0.0",
+  "description": "https://melaniebott2691.github.io/17-Portfolio/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelanieBott2691/17-Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelanieBott2691/17-Portfolio/issues"
+  },
+  "homepage": "https://github.com/MelanieBott2691/17-Portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "handlebars": "^4.7.6",
+    "nodemailer": "^6.4.10",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
