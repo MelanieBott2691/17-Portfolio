@@ -21,9 +21,9 @@ https://melaniebott2691.github.io/17-Portfolio/
 *Competitive Content*
 - Portfolio has been updated to be employer competitive
 - Six deployed projects are linked to portfolio pages with
-* Project TItle
-* Link to deployed version
-* Link to the code on GitHub
+* * Project Title
+* * Link to deployed version
+* * Link to the code on GitHub
 - Linked to LinkedIn, Facebook and GitHub accounts
 - README's for linked projects have been updated with description of problems, how to solve and information about approach
 
@@ -32,17 +32,21 @@ https://melaniebott2691.github.io/17-Portfolio/
 - Color palette is consistent throughout all webpages
 - Images are meaningful and represent each project
 
-## Portfolio Main Section -About Me
-![Portfolio](/assets/img/portfoliowebpage.png)
+## Portfolio Main Sections
+
+### Home Page
+![Portfolio Page](/public/img/home.png)
+
+#### Portfolio Page
+![Portfolio Page](/public/img/portfoliopage.png)
+
+### About Me
+![Portfolio](/public/img/about.png)
+
+#### Resume Page
+![Portfolio Page](/public/img/resumepage.png)
+
+### Contact Page
+![Portfolio Page](/public/img/contactpg.png)
 
 
-## Portfolio Page
-![Portfolio Page](/assets/img/portfoliopage.png)
-
-
-## Contact Page
-![Portfolio Page](/assets/img/contactpage.png)
-
-
-## Resume Page
-![Portfolio Page](/assets/img/resumepage.png)
