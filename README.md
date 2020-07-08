@@ -1,9 +1,7 @@
 # 17-Portfolio
 
-https://melaniebott2691.github.io/17-Portfolio/
-
-
-![Portfolio](/assets/images/screenshot.png)
+#### See live page at:
+https://bott-portfolio.herokuapp.com/
 
 
 ## Update Portfolio Page using:
