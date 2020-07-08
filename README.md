@@ -43,9 +43,6 @@ https://melaniebott2691.github.io/17-Portfolio/
 ### About Me
 ![Portfolio](/public/img/about.png)
 
-#### Resume Page
-![Portfolio Page](/public/img/resumepage.png)
-
 ### Contact Page
 ![Portfolio Page](/public/img/contactpg.png)
 
