@@ -38,7 +38,7 @@ https://melaniebott2691.github.io/17-Portfolio/
 ![Portfolio Page](/public/img/home.png)
 
 #### Portfolio Page
-![Portfolio Page](/public/img/portfoliopage.png)
+![Portfolio Page](/public/img/.png)
 
 ### About Me
 ![Portfolio](/public/img/about.png)
