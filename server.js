@@ -36,6 +36,7 @@ app.get('/contact', (req, res) => {
 app.get('/portfolio', (req, res) => {
   res.render('portfolio');
 });
+
 app.post('/send', (req, res) => {
   const output = `
         		<p>You have a new contact request!</p>
